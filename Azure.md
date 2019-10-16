@@ -100,3 +100,7 @@ Identificará falhas
 Colocará o trabalho em filas
 Diminuirá o pool conforme o trabalho for concluído
 Pode haver situações em que você precise de potência de computação bruta ou de potência de computação no nível de supercomputador. O Azure fornece esses recursos.
+
+
+Resumir Redes
+https://docs.microsoft.com/pt-br/learn/modules/intro-to-azure-networking/3-scale-load-balancer
